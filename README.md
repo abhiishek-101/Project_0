@@ -35,10 +35,10 @@
 
 
 <h3>Getting Started</h3>
-<p> Start with this Github Repository. </p>
-<p> Make sure to import the database,.sql file in PgAdmin 4. </p>
-<p> This will create the database.</p>
-<p> After that you can Run the project in Eclipse IDE. </p>
+<p> 1. Start with this Github Repository. </p>
+<p> 2. Make sure to import the database,.sql file in PgAdmin 4. </p>
+<p> 3. This will create the database.</p>
+<p> 4. After that you can Run the project in Eclipse IDE. </p>
 
 
 
